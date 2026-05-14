@@ -1,4 +1,4 @@
-# 
+# updated cross-margin trading bot Addon | liquidity-provision + position-sizing offers the most advanced cross-margin trading bot, with liquidity-provision and position-sizing.
 
 
 
